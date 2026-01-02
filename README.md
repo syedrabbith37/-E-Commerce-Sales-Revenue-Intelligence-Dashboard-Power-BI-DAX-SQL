@@ -1,3 +1,5 @@
+<img width="1329" height="746" alt="DASHBOARD" src="https://github.com/user-attachments/assets/26a52680-92f4-4cde-8d3a-f73e790b9c33" />
+<img width="1920" height="1080" alt="th-20241218-142623-power-bi-financial-analysis-dashboard-example-zoomcharts" src="https://github.com/user-attachments/assets/aa3b7415-dcc6-415e-b15c-c4e630d11dad" />
 # 📊 E-Commerce Sales & Revenue Intelligence (Ekart)
 
 ## 📋 Project Overview
